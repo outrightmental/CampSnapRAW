@@ -1,4 +1,4 @@
-# campsnap-pro-raw
+# Camp Snap RAW
 
 **Community firmware project to make the Camp Snap Pro (CS-Pro) shoot camera RAW.**
 
