@@ -1,0 +1,13 @@
+# Never commit vendor firmware or dumps — see CONTRIBUTING.md
+firmware/*
+!firmware/README.md
+*.bin
+*.brn
+*.flt
+*.raw
+*.dng
+
+# Python
+__pycache__/
+*.pyc
+.venv/
